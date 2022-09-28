@@ -1,0 +1,66 @@
+h1 {
+    border-radius: 20px; border-style: outset; width: 300px;
+    padding-left: 35px;
+    background-color: rgb(161, 222, 240);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    display: block; margin-left: auto; margin-right: auto;
+
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(39, 113, 116);
+    text-align: center;
+}
+
+p {
+    color: rgb(9, 87, 83);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center;
+}
+
+body {
+    background-color: rgb(223, 243, 255);
+}
+
+.homeimg {
+     display: block; margin-left: auto; margin-right: auto; width: auto; height: 250px;
+}
+
+li {
+    border-style: outset; border-radius: 20px; width: fit-content; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;
+    display: block; margin-left: auto; margin-right: auto; background-color: rgb(161, 222, 240);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    list-style: none;
+    padding: 0%;
+    
+}
+.goaway {
+    border-style: none; padding: 0%;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: none;
+}
+
+
+img {
+    width: 21%;
+    display: inline-block; margin-left: auto; margin-right: auto;
+    padding: 1.7%;
+}
